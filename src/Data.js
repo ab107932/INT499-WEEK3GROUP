@@ -2,21 +2,27 @@
 export const subscriptionItems = [
     {
       id: 1,
-      name: "Premium Membership",
-      description: "Get access to all premium content for a month.",
-      price: 19.99,
+      name: "Basic Subscription",
+      description: "For one User",
+      price: 4.99,
     },
     {
       id: 2,
-      name: "Advanced Access",
-      description: "Get access to all premium content for a five months",
-      price: 59.99,
+      name: "Premium Subscription",
+      description: "Share with Family",
+      price: 9.99,
     },
     {
       id: 3,
-      name: "Exclusive Content Subscription",
-      description: "Get exclusive access to content for 1 year.",
-      price: 129.99,
+      name: "Share with Family",
+      description: "Share with the World",
+      price: 12.99,
+    },
+    {
+      id: 4,
+      name: "Social Media Sharing Subscription",
+      description: "Share your list",
+      price: 2.99,
     },
   ];
   
